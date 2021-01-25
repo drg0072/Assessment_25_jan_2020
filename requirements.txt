@@ -1,0 +1,4 @@
+requests
+requests_mock
+boto3
+xmltodict
